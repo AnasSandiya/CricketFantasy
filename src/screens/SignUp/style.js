@@ -1,0 +1,102 @@
+import {StyleSheet,Dimensions} from 'react-native';
+import controller from '../../components/controller/controller';
+
+export default StyleSheet.create({
+    container: {
+        flex: 1,
+    },
+    logo:{
+        alignSelf:'center',
+        marginTop:controller.w80,
+        width:'80%'
+    },
+    signUpContainer:{
+        width:'86%',
+        alignSelf:'center',
+        marginTop:controller.w35,
+        backgroundColor:'#e9e9e9d9',
+        borderRadius:10
+    },
+    firstNameContainer:{
+        paddingTop:30,
+        paddingLeft:30,
+        paddingBottom:10,
+        paddingRight:20
+    },
+    lastNameContainer:{
+        paddingTop:4,
+        paddingLeft:30,
+        paddingBottom:10,
+        paddingRight:20
+    },
+    emailContainer:{
+        paddingTop:4,
+        paddingLeft:30,
+        paddingBottom:10,
+        paddingRight:20
+    },
+    phoneNumberContainer:{
+        paddingTop:4,
+        paddingLeft:30,
+        paddingBottom:10,
+        paddingRight:20
+    },
+    headerText:{
+        fontSize:14,
+        fontFamily:'Ubuntu-Regular',
+        color:'#7a7a7a'
+    },
+    Input:{
+        paddingTop:10,
+        fontSize:20,
+        fontFamily:'Ubuntu-Regular',
+        color:'black',
+        borderBottomColor:'#7a7a7a',
+        borderBottomWidth:1
+    },
+    passwordContainer:{
+        paddingTop:4,
+        paddingLeft:30,
+        paddingBottom:30,
+        paddingRight:20
+    },
+    rememberContainer:{
+        paddingLeft:30,
+        paddingBottom:30,
+        justifyContent:'center',
+    },
+    rememberUnder:{
+        flexDirection:'row',
+    },
+    rememberText:{
+        paddingLeft:10,
+        // paddingTop:3,
+        fontSize:12,
+        textAlignVertical:'center',
+        fontFamily:'Ubuntu-Regular',
+        color:'#7a7a7a'
+    },
+    tcContainer:{
+        justifyContent:'center'
+    },
+    tc:{
+        // paddingTop:4,
+        fontSize:12,
+        textAlignVertical:'center',
+        fontFamily:'Ubuntu-Regular',
+        color:'#279Bff'
+    },
+    andText:{
+        paddingLeft:5,
+        paddingRight:5,
+        fontSize:12,
+        textAlignVertical:'center',
+        fontFamily:'Ubuntu-Regular',
+        color:'#7a7a7a'
+    },
+    btnContainer:{
+        marginTop:30,
+        marginBottom:20
+    },
+    
+});

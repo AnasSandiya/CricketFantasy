@@ -1,0 +1,33 @@
+dependencies: \
+  /Users/arbab/Desktop/Projects/LyveSports/node_modules/react-native/React/Base/RCTJavaScriptLoader.mm \
+  /Users/arbab/Desktop/Projects/LyveSports/ios/Pods/Target\ Support\ Files/React-Core/React-Core-prefix.pch \
+  /Users/arbab/Desktop/Projects/LyveSports/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
+  /Users/arbab/Desktop/Projects/LyveSports/ios/Pods/Headers/Private/React-Core/React/RCTDefines.h \
+  /Users/arbab/Desktop/Projects/LyveSports/ios/Pods/Headers/Private/React-Core/React/RCTInspectorDevServerHelper.h \
+  /Users/arbab/Desktop/Projects/LyveSports/ios/Pods/Headers/Private/React-Core/React/RCTPackagerConnection.h \
+  /Users/arbab/Desktop/Projects/LyveSports/ios/Pods/Headers/Public/React-cxxreact/cxxreact/JSBundleType.h \
+  /Users/arbab/Desktop/Projects/LyveSports/ios/Pods/Folly/folly/Portability.h \
+  /Users/arbab/Desktop/Projects/LyveSports/ios/Pods/Folly/folly/portability/Config.h \
+  /Users/arbab/Desktop/Projects/LyveSports/ios/Pods/Folly/folly/CPortability.h \
+  /Users/arbab/Desktop/Projects/LyveSports/node_modules/react-native/React/Base/RCTBridge.h \
+  /Users/arbab/Desktop/Projects/LyveSports/ios/Pods/Headers/Private/React-Core/React/RCTBridgeDelegate.h \
+  /Users/arbab/Desktop/Projects/LyveSports/ios/Pods/Headers/Private/React-Core/React/RCTJavaScriptLoader.h \
+  /Users/arbab/Desktop/Projects/LyveSports/ios/Pods/Headers/Private/React-Core/React/RCTBridgeModule.h \
+  /Users/arbab/Desktop/Projects/LyveSports/ios/Pods/Headers/Private/React-Core/React/RCTFrameUpdate.h \
+  /Users/arbab/Desktop/Projects/LyveSports/ios/Pods/Headers/Private/React-Core/React/RCTInvalidating.h \
+  /Users/arbab/Desktop/Projects/LyveSports/node_modules/react-native/React/Base/RCTConvert.h \
+  /Users/arbab/Desktop/Projects/LyveSports/ios/Pods/Headers/Private/React-Core/React/RCTAnimationType.h \
+  /Users/arbab/Desktop/Projects/LyveSports/ios/Pods/Headers/Private/React-Core/React/RCTBorderStyle.h \
+  /Users/arbab/Desktop/Projects/LyveSports/ios/Pods/Headers/Private/React-Core/React/RCTLog.h \
+  /Users/arbab/Desktop/Projects/LyveSports/ios/Pods/Headers/Private/React-Core/React/RCTAssert.h \
+  /Users/arbab/Desktop/Projects/LyveSports/ios/Pods/Headers/Private/React-Core/React/RCTUtils.h \
+  /Users/arbab/Desktop/Projects/LyveSports/ios/Pods/Headers/Private/React-Core/React/RCTPointerEvents.h \
+  /Users/arbab/Desktop/Projects/LyveSports/ios/Pods/Headers/Private/React-Core/React/RCTTextDecorationLineType.h \
+  /Users/arbab/Desktop/Projects/LyveSports/ios/Pods/Headers/Public/Yoga/yoga/Yoga.h \
+  /Users/arbab/Desktop/Projects/LyveSports/ios/Pods/Headers/Public/Yoga/yoga/YGEnums.h \
+  /Users/arbab/Desktop/Projects/LyveSports/ios/Pods/Headers/Public/Yoga/yoga/YGMacros.h \
+  /Users/arbab/Desktop/Projects/LyveSports/ios/Pods/Headers/Public/Yoga/yoga/YGValue.h \
+  /Users/arbab/Desktop/Projects/LyveSports/node_modules/react-native/React/Base/RCTMultipartDataTask.h \
+  /Users/arbab/Desktop/Projects/LyveSports/ios/Pods/Headers/Private/React-Core/React/RCTMultipartStreamReader.h \
+  /Users/arbab/Desktop/Projects/LyveSports/node_modules/react-native/React/Base/RCTPerformanceLogger.h \
+  /Users/arbab/Desktop/Projects/LyveSports/node_modules/react-native/React/Base/RCTUtils.h
